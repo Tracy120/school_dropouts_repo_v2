@@ -36,25 +36,25 @@ Data structures used and purpose:
 ## Screenshots
 
 
-
+### Created tables
 ![Created Tables ](screenshots/tablecreate.png)
 
-
+### inserted data in the table
 ![inserted table data ](screenshots/insertdata.png)
 
-
+### verified the table data
 ![verified table data ](screenshots/verifydata.png)
 
-
+### dropped per district 
 ![verified table data ](screenshots/dropperdistrict.png)
 
-
+### attendance of student
 ![verified table data ](screenshots/attendance.png)
 
-
+### intervation of teachers
 ![verified table data ](screenshots/interventions.png)
 
-
+### nested and GOTO example
 ![verified table data ](screenshots/nested%20and%20goto.png)
 
 ## Conclusion
